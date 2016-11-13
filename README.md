@@ -1,4 +1,4 @@
-![Logo Les Nutella'TSE](/logo.jpg)
+![Logo Les Nutella'TSE](/Logo.jpg)
 ## Projet VISION FISE 2
 
 ### Hierachie du dépôt
@@ -12,5 +12,6 @@ Le dépôt a une structure très simple :
 
 ### Documentation
 Lorsque la solution sera acceptée par le client, une documentation technique sera présente à cette [adresse](https://github.com/TheSirC/LesNutella-TSE/wiki) qui contiendra :
+
 1. Les spécifications techniques du projet
 2. Un manuel utilisateur
