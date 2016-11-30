@@ -1,0 +1,4 @@
+Dimension grille
+
+1 petit carreau = 1cm
+1 grand carreau = 5cm
