@@ -16,4 +16,4 @@ Le dépôt a une structure très simple :
 Lorsque la solution sera acceptée par le client, on pourra trouver :
 
 1. Les spécifications techniques du projet, [ici](https://github.com/TheSirC/LesNutella-TSE/blob/master/Documentation_technique.pdf)
-2. Un manuel utilisateur, [ici](https://github.com/TheSirC/LesNutella-TSE/wiki/Manuel-Utilisateur)
+2. Un manuel utilisateur, [ici](https://github.com/TheSirC/LesNutella-TSE/blob/master/Manuel-Utilisateur.pdf)
