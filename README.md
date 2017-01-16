@@ -1,7 +1,7 @@
 ![Logo Les Nutella'TSE](/Logo.jpg)
 ## Projet VISION FISE 2
 
-### Hierachie du dépôt
+### Hiérarchie du dépôt 
 Le dépôt a une structure très simple :
 * Les comptes-rendus de chaque séance sont présents à cette [adresse](https://github.com/TheSirC/LesNutella-TSE/tree/master/Compte%20-%20Rendus/Compte-Rendus%20S%C3%A9ance) pour suivre l'avancement du projet séance après séance
 * Les comptes-rendus des rendez-vous client sont présents à cette [adresse](https://github.com/TheSirC/LesNutella-TSE/tree/master/Compte%20-%20Rendus/Compte-Rendus%20Rendez-vous%20Client)
